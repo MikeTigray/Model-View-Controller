@@ -28,7 +28,7 @@ You'll be presented with an easily navigatable homepage and then promted to crea
 
 Great for bloggers and writers.
 
-![](./assets/images/Screen%20Shot%202022-10-06%20at%209.13.28%20PM.png)
+![Screenshot of live page](./assets/images/Screen%20Shot%202022-10-06%20at%209.13.28%20PM.png)
 
 ## <a id="contributions"> Contributions </a>
 
